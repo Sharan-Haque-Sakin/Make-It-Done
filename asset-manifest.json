@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Make-It-Done/static/css/main.008ef3a9.css",
+    "main.js": "/Make-It-Done/static/js/main.d5e76754.js",
+    "static/media/atomichabits.png": "/Make-It-Done/static/media/atomichabits.2c0319de6b8865e8a86d.png",
+    "static/media/Quotes.jpg": "/Make-It-Done/static/media/Quotes.99e93cf21dd3398e5120.jpg",
+    "static/media/welcome.jpeg": "/Make-It-Done/static/media/welcome.fd9b8160cdda4911f5eb.jpeg",
+    "index.html": "/Make-It-Done/index.html",
+    "main.008ef3a9.css.map": "/Make-It-Done/static/css/main.008ef3a9.css.map",
+    "main.d5e76754.js.map": "/Make-It-Done/static/js/main.d5e76754.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.008ef3a9.css",
+    "static/js/main.d5e76754.js"
+  ]
+}
