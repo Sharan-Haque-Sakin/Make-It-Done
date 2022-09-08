@@ -1,0 +1,19 @@
+footer{
+    margin-top: 17rem;
+background-color: #111111;
+padding: 3rem;
+text-align: center;
+}
+p{
+    color: white;
+    font-size: 19px;
+}
+.link{
+    text-align: center;
+}
+a{
+    color: #3897d3;
+}
+a:visited{
+    color:#3897d3;
+}

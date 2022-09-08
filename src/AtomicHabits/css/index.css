@@ -1,0 +1,15 @@
+.img{
+    width: 12rem;
+    margin: auto;
+    display: block;
+    box-shadow: 1px 0px 22px 3px;
+}
+html{
+    background-color: #f8fafc;
+}
+body{
+    margin: 3rem;
+}
+.mainHeader{
+    margin: 3rem;
+}

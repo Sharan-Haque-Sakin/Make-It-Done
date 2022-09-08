@@ -1,0 +1,20 @@
+h1{
+    margin-top: 3rem;
+}
+
+.s li{
+    margin-left: 1rem;
+}
+
+.n{
+    border-left: 4px solid rgb(0, 68, 255);
+    padding: 1rem;
+    font-size: 22px;
+    margin: 2rem;
+}
+
+@media (max-width:830px) {
+    .Container{
+        margin: -2rem;
+    }
+}

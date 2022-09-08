@@ -1,0 +1,54 @@
+.atomicHabits{
+    margin-left: -3rem;
+}
+#AH_pic{
+    width: 8rem;
+    box-shadow: 1px 6px 15px 2px;
+    margin-left: 5rem;
+    float: left;
+}
+.makeFlex{
+    display: flex;
+}
+.bookName{
+    margin-top: 6rem;
+    
+    
+}
+.bookDetails{
+    margin-left:14rem ;
+    
+
+}
+.bookPara{
+font-size: 1rem;
+margin-right: 63rem;
+margin-left: 2rem;
+color: #333333;
+}
+
+@media (max-width:1540px) {
+  .bookPara{
+    margin-right: 10vw;
+    margin-left: 0rem;
+  } 
+  span{
+     margin-left: 0rem; 
+  }
+}
+/* @media (max-width:1362px) {
+   .bookPara{
+    margin-right: 30rem;
+   } 
+} */
+@media (max-width:584px) {
+    #AH_pic{
+        margin-left: 1rem;
+    }
+    .bookDetails{
+        margin-left: 9.70rem;
+    }
+    .bookPara{
+        margin-right: 0px;
+    }
+};
