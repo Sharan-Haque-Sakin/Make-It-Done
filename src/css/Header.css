@@ -17,7 +17,7 @@ height: 66vh;
 }
 .TopHeader h2{
     font-weight: normal;
-    margin-right: 41rem;
+    /* margin-right: 41rem; */
     /* margin-top: 7rem; */
     color: #333333;
     font-size: 1.25rem;
